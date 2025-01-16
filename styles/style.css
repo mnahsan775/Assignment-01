@@ -7,7 +7,7 @@
     font-weight: 400;
     font-style: normal;
   }
-/* navbar style */
+/* navbar start */
 nav{
     display: flex;
     justify-content: space-between;
@@ -28,3 +28,47 @@ nav{
     margin: 24px 160px;
     border: 1px solid #006A50;
 }
+/* navbar finish */
+
+/* BANNER START */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 1280px;
+    height: 560px;    */
+    border-radius: 24px;
+    background-color: #C6E4D6;
+    margin: 20px 160px;
+}
+.banner-contant{
+    max-width: 622px;
+    margin: 117px 60px;
+}
+.banner-title{
+    font-weight: 400;
+    font-size: 24px;
+    /* color: ; */
+}
+.banner-description{
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+    margin-top: 16px;
+}
+.explore-btn{
+    border-radius: 8px;
+    background-color: #006A50;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    margin-top: 24px;
+    border: none;
+}
+.banner-pic{
+    width: 474.03px;
+    height: 400px;
+    margin: 80px;
+}
+
