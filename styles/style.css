@@ -71,3 +71,44 @@ nav{
 }
 /* BANNER FINISH */
 
+/* Main Start  */
+main{
+    margin: 80px 160px;
+}
+/* vision start */
+.vision-header{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+    margin-bottom: 24px;
+}
+.vision-description{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 32px;
+}
+.vision-container{
+    display: flex;
+    gap: 24px;
+}
+.vision-s{
+    padding: 32px;
+
+}
+.digital{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+}
+.green{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+}
+.modern{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+}
+.btn-common{
+    border-radius: 8px;
+    padding: 20px 11px;
+}
+
